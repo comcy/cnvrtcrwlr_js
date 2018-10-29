@@ -1,0 +1,11 @@
+{
+    "name": "downcrwlr_js",
+    "version": "0.1.0",
+    "description": "Takes some meta information from package.json and generates a app-version.json with desired information.",
+    "main": "index.js",
+    "author": "IMT-OSQ",
+    "license": "Carl Zeiss Industrielle Messtechnik GmbH",
+    "bin": {
+        "crawl": "./index.js"
+    }
+}
