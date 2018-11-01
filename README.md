@@ -1,9 +1,8 @@
 # CnvrtdwnJs
 
 > cnvrtdwn_js gives the possibility to read in markdown written texts and print them out as a html file.
-
-
-[![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg?style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js) [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js/pulls) [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js)
+ 
+[![GitHub](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js)
 
 
 
