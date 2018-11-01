@@ -5,7 +5,6 @@
 [![GitHub](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js)
 
 
-
 ---
 
 ## Table of Contents
@@ -100,7 +99,7 @@ Feel free to improve code via *Pull Requests*.
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![GitHub](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2018 © Christian Silfang
