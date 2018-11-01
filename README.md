@@ -2,7 +2,7 @@
 
 > cnvrtdwn_js gives the possibility to read in markdown written texts and print them out as a html file.
  
-[![GitHub](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js)
+[![GitHub](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js/blob/master/LICENSE)
 
 
 ---
@@ -99,7 +99,7 @@ Feel free to improve code via *Pull Requests*.
 
 ## License
 
-[![GitHub](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js)
+[![GitHub](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=for-the-badge)](https://github.com/comcy/cnvrtcrwlr_js/blob/master/LICENSE)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2018 © Christian Silfang
