@@ -27,7 +27,7 @@
 ## Example
 
 ```shell
-cnvrtcrwlr -i ./path/to/my/README.md -o ./README.html 
+cnvrtdwn -i ./path/to/my/README.md -o ./README.html 
 ```
 
 ---
