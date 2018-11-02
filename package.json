@@ -1,6 +1,6 @@
 {
     "name": "cnvrtdwn_js",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "This is minimal markdown to html parser which can interprete any markdown input and generate a html file from its content.",
     "author": "Christian Silfang",
     "license": "MIT",
@@ -20,8 +20,8 @@
     },
     "dependencies": {
         "minimist": "^1.2.0",
+        "mkdirp": "^0.5.1",
         "showdown": "^1.8.7"
-
     },
     "devDependencies": {
         "@types/node": "^10.12.2",
