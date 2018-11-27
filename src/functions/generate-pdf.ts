@@ -34,7 +34,6 @@ export function generatePdf(inputHtml, outputPdf): void {
                     format: 'A4',
                     printBackground: true,
                     displayHeaderFooter: true,
-                    background
                     margin: { left: '2cm', top: '3cm', right: '1cm', bottom: '2.5cm' }
                 });
 
