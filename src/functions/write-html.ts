@@ -11,7 +11,7 @@ var getDirName = require('path').dirname;
 export function writeHtml(path, contents, cb): void {
     mkdirp(getDirName(path), function (err) {
         if (err) return cb(err);
-        fs.writeHtml(path, contents, cb, function (err) {
+        fs.writeFile(path, contents, cb, function (err) {
             if (err) {
                 return console.log(err);
             }
